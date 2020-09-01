@@ -15,6 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I recently completed a Watson Fellowship, travelling to India, Nepal, and Myanmar to study the intersection of technological development and political power. Previously, I produced public radio at KQED in San Francisco and WBHM in Birmingham. Before that, I researched US Congress at The Brookings Institution. I'm a graduate of Pomona College in Los Angeles, where I studied politics and computer science.
+I recently completed a [Watson Fellowship](http://51.watson.foundation/fellows/eli-cohen.html), travelling to India, Nepal, and Myanmar to study the intersection of technological development and political power. Previously, I produced public radio [WBHM](https://wbhm.org/author/eliunitedgmail-com/) in Birmingham and KQED in San Francisco. Before that, I researched US Congress at The Brookings Institution. I'm a graduate of Pomona College in Los Angeles, where I studied politics and computer science.
 
 I'm currently freelancing, primarily in audio production and political reporting.
