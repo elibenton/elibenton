@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hello! 👋
 
 <!--
 **elibenton/elibenton** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I recently completed a [Watson Fellowship](http://51.watson.foundation/fellows/eli-cohen.html), travelling to India, Nepal, and Myanmar to study the intersection of technological development and political power. Previously, I produced public radio [WBHM](https://wbhm.org/author/eliunitedgmail-com/) in Birmingham and KQED in San Francisco. Before that, I researched US Congress at The Brookings Institution. I'm a graduate of Pomona College in Los Angeles, where I studied politics and computer science.
+I'm currently freelancing, primarily web development and political reporting. My most recent project is [Don't Wait, Vote!](https://dontwait.vote/), a criminal justice ballot guide that focuses on local races. You can find those repo's below.
 
-I'm currently freelancing, primarily web development and audio reporting.
+Previously, I completed a [Watson Fellowship](http://51.watson.foundation/fellows/eli-cohen.html), travelling to India, Nepal, and Myanmar to study the intersection of technological development and political power. I've produced public radio [WBHM](https://wbhm.org/author/eliunitedgmail-com/) in Birmingham and KQED in San Francisco. Before that, I researched US Congress at The Brookings Institution. I'm a graduate of Pomona College in Los Angeles, where I studied politics and computer science.
+
